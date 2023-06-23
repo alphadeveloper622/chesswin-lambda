@@ -19,7 +19,7 @@ To update .Net function (GameEvent)
 ```
 
 - If already installed check if new version is available.
-<!-- 
+
 ```
     dotnet tool update -g Amazon.Lambda.Tools
 ```
@@ -28,4 +28,4 @@ To update .Net function (GameEvent)
 
 ```
     dotnet lambda deploy-function
-``` -->
+```
