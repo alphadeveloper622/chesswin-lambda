@@ -27,5 +27,5 @@ To update .Net function (GameEvent)
 - Deploy function to AWS Lambda
 
 ```
-    dotnet lambda deploy-function
+    dotnet lambda deploy-functionality
 ```
